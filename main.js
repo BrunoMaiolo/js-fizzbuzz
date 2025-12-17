@@ -20,4 +20,8 @@ else if (isMultipleOf3) {
 else if (isMultipleOf5) {
     console.log("Buzz");
 }
+//Altrimenti stampare i numeri normali
+else {
+    console.log(i)
+}
 }
