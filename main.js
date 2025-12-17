@@ -12,5 +12,10 @@ const isMultipleOf5 = i % 5 === 0;
 if (isMultipleOf3 && isMultipleOf5) {
     console.log("FizzBuzz");
 }
+//Se e' multiplo di 3 stampa "Fizz"
+else if (isMultipleOf3) {
+    console.log("Fizz");
+}
+
 
 }
