@@ -8,5 +8,9 @@ for (let i = 1; i <= 100; i++) {
 const isMultipleOf3 = i % 3 === 0;
 const isMultipleOf5 = i % 5 === 0;
 
+//Se il numero e' multiplo di 3 e di 5 stampare "FizzBuzz"
+if (isMultipleOf3 && isMultipleOf5) {
+    console.log("FizzBuzz");
+}
 
 }
