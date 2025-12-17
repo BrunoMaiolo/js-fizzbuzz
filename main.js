@@ -16,6 +16,8 @@ if (isMultipleOf3 && isMultipleOf5) {
 else if (isMultipleOf3) {
     console.log("Fizz");
 }
-
-
+//Se e' multiplo di 5 stampa "Buzz"
+else if (isMultipleOf5) {
+    console.log("Buzz");
+}
 }
