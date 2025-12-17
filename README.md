@@ -17,7 +17,9 @@ Consigli del giorno:
 ### Pseudocodice
 
 - Per ogni numero da 1 a 100
+- Stampare i numeri da 1 a 100
+- Controllare se il numero e' multiplo di 3 e di 5
   - SE il numero e' divisibile per 3 e per 5 stampare FizzBuzz
   - ALTRIMENTI se il numero e' divisibile per 3 stampare Fizz
   - ALTRIMENTI se il numero e' divisibile per 5 stampare Buzz
-  - ALTRIMENTI stampare il numero
+  - ALTRIMENTI stampare il numero normale
